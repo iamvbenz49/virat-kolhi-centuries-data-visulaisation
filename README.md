@@ -25,13 +25,12 @@ To explore and run this project on your local machine, follow these steps:
 - `/`: Jupyter notebooks for data analysis and visualization.
 
 ## Visualizations
-
-![Centuries Against Each Opponent](images/centuries_against_each_opponent.png)
-![Format Distribution](images/format.png)
-![Home vs Away Performance](images/home_away.png)
-![Man of the Match](images/mom.png)
-![Not Out vs Out](images/not_not_out.png)
-![Win vs Lose](images/win_lose.png)
+<img src="images/centuries_against_each_opponent.png" alt="Centuries Against Each Opponent">
+<img src="images/format.png" alt="Format Distribution">
+<img src="images/home_away.png" alt="Home vs Away Performance">
+<img src="images/mom.png" alt="Man of the Match">
+<img src="images/not_not_out.png" alt="Not Out vs Out">
+<img src="images/win_lose.png" alt="Win vs Lose">
 
 ## Contributing
 
